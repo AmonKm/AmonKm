@@ -2,4 +2,4 @@
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api?username=AmonKm" alt="GitHub stats" />
   </a>
-</p> </p> <p align="center"> <a href="mailto:amon.cyber@proton.me">Mail</a> </p>
+</p> </p> <p align="center"> <a href="mailto:github.diagram415@passmail.net">Mail</a> </p>
