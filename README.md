@@ -2,7 +2,9 @@
 <p align="center">Réseaux & Télécommunications · Cybersécurité</p>
 <p align="center">Je fais un peu de tout, un peu pour tout le monde.</p>
 <p align="center"><em>for everyone</em></p>
-<p align="center">🕷️</p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/166015459?v=4&size=64"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
